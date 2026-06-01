@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"file_info": {
+		"authors": [
+			"Garou3299"
+		],
+		"description": "Custom racist word filter rules for TF2 Bot Detector.",
+		"title": "Custom racist word filter",
+		"update_url": "https://raw.githubusercontent.com/Garou3299/tf2bd-database/master/rules.garou3299.json"
+	},
+	"rules": [
+		{
+			"actions": {
+				"mark": [
+					"racist"
+				]
+			},
+			"description": "Racism",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "word",
+					"patterns": [
+						"nigga",
+						"nigg@",
+						"n1gga",
+						"n1gg@",
+						"niggas",
+						"nigg@s",
+						"n1ggas",
+						"n1gg@s",
+						"n1gger",
+						"n1ggers"
+					]
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,1166 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"Garou3299 and those who contributed to https://github.com/Garou3299/tf2bd-database/discussions/1"
+		],
+		"description": "Database of Cheaters and Suspicious Players in Team Fortress 2.",
+		"title": "tf2bd-database",
+		"update_url": "https://raw.githubusercontent.com/Garou3299/tf2bd-database/master/playerlist.garou3299.json"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "signal",
+				"time": 1779991326
+			},
+			"steamid": "[U:1:1730017]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "stevebanana",
+				"time": 1778867187
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga are you 12 4chan sucks dick\""
+			],
+			"steamid": "[U:1:38922329]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "sodomy is a sin",
+				"time": 1778936499
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"bye stupid niggers\""
+			],
+			"steamid": "[U:1:52337740]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "X{e}N{o}N",
+				"time": 1779738806
+			},
+			"proof": [
+				"https://youtu.be/8vuiJpSXKY4"
+			],
+			"steamid": "[U:1:71038851]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Golden Freakmann",
+				"time": 1778332114
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"Fongle :  Niggers and faggots lose once again\""
+			],
+			"steamid": "[U:1:85744149]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Aendy",
+				"time": 1779889074
+			},
+			"proof": [
+				"https://youtu.be/zuKHFjZ0ThU"
+			],
+			"steamid": "[U:1:139991687]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ManSyiz",
+				"time": 1779992044
+			},
+			"steamid": "[U:1:150884981]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "is",
+				"time": 1779988510
+			},
+			"steamid": "[U:1:161716099]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Piro",
+				"time": 1778420941
+			},
+			"steamid": "[U:1:168226274]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "aldogrichards",
+				"time": 1779629791
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"black nigger\""
+			],
+			"steamid": "[U:1:172334023]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "grifoxqqqwer",
+				"time": 1779885286
+			},
+			"proof": [
+				"https://youtu.be/keFqDba-3bY?t=1404"
+			],
+			"steamid": "[U:1:175310747]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Matsu Hanabi",
+				"time": 1778173045
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"say nigger. Cheater will never say nigger\""
+			],
+			"steamid": "[U:1:181483228]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Blasterion",
+				"time": 1779032203
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"GG niGGers\""
+			],
+			"steamid": "[U:1:182082067]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "SPENCER P00TIS",
+				"time": 1779023830
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"I pray you, nigga. Anon!\""
+			],
+			"steamid": "[U:1:204454667]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "damianek",
+				"time": 1779816844
+			},
+			"steamid": "[U:1:230216351]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Matt Keung",
+				"time": 1779643276
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger\"",
+				"[auto] automatically marked: Racist | reason: \"your mum nigger\""
+			],
+			"steamid": "[U:1:248411316]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Frenchmann",
+				"time": 1779889600
+			},
+			"proof": [
+				"https://youtu.be/zuKHFjZ0ThU"
+			],
+			"steamid": "[U:1:268253336]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "KNNU",
+				"time": 1778091963
+			},
+			"steamid": "[U:1:269327660]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "chess",
+				"time": 1779886976
+			},
+			"steamid": "[U:1:277202858]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Muramasa",
+				"time": 1779023826
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"really nigga\"",
+				"[auto] automatically marked: Racist | reason: \"black niggas\""
+			],
+			"steamid": "[U:1:295494139]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Filly Fiddler",
+				"time": 1777574041
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"you nigger\""
+			],
+			"steamid": "[U:1:319079738]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "M\u00e9xico #1 Pyro Main",
+				"time": 1778955191
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"im not a nigga\""
+			],
+			"steamid": "[U:1:320371313]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dea",
+				"time": 1778870021
+			},
+			"steamid": "[U:1:351637669]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "can i heal u",
+				"time": 1779991462
+			},
+			"steamid": "[U:1:372711629]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "CITY WOK",
+				"time": 1779643283
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"NIGGER\""
+			],
+			"steamid": "[U:1:374794996]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Shu",
+				"time": 1779989730
+			},
+			"steamid": "[U:1:393378847]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Saint\u00e9",
+				"time": 1779823406
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga said we\""
+			],
+			"steamid": "[U:1:411601479]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Hi my name is Jeff",
+				"time": 1778003117
+			},
+			"steamid": "[U:1:426832014]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Kane",
+				"time": 1779213229
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:435626544]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "henry",
+				"time": 1779819690
+			},
+			"steamid": "[U:1:447731402]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lil ahh dih",
+				"time": 1778935232
+			},
+			"proof": [
+				"Using Walls & Aim Hacks."
+			],
+			"steamid": "[U:1:741196718]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HACKS ARE FOR WEAK",
+				"time": 1778773127
+			},
+			"steamid": "[U:1:741634656]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u12a0\u1225\u122d \u12d3\u12ed\u1296\u127d \u12eb\u1209",
+				"time": 1779987021
+			},
+			"proof": [
+				"Aimbot & ESP."
+			],
+			"steamid": "[U:1:744603488]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ninjaneer",
+				"time": 1778519934
+			},
+			"steamid": "[U:1:748124951]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ninjaneer",
+				"time": 1777736175
+			},
+			"steamid": "[U:1:750017613]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cfzl",
+				"time": 1779988136
+			},
+			"steamid": "[U:1:750417829]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "familypakyob",
+				"time": 1779902663
+			},
+			"steamid": "[U:1:753976513]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "sewer monster",
+				"time": 1779112029
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"NIGGA YOU GOT KRITZ\""
+			],
+			"steamid": "[U:1:840668058]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cheat Developer",
+				"time": 1779740443
+			},
+			"proof": [
+				"https://youtu.be/p5BM5oTE7AY"
+			],
+			"steamid": "[U:1:879347135]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nobody",
+				"time": 1779888927
+			},
+			"proof": [
+				"https://youtu.be/zuKHFjZ0ThU"
+			],
+			"steamid": "[U:1:884829123]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Babang",
+				"time": 1778684718
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"now i remember why i stopped playing this nigger game\""
+			],
+			"steamid": "[U:1:885532385]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Zhuang Fangyi",
+				"time": 1778172635
+			},
+			"steamid": "[U:1:893498094]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bob (real)",
+				"time": 1779800015
+			},
+			"proof": [
+				"https://youtu.be/Bmju3fBY4no?t=784"
+			],
+			"steamid": "[U:1:919474224]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Phan That",
+				"time": 1778948593
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga \""
+			],
+			"steamid": "[U:1:971129500]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "EthicalGooner2002 \u2764",
+				"time": 1779991224
+			},
+			"steamid": "[U:1:1001642307]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hong Kong Phooey",
+				"time": 1779988928
+			},
+			"steamid": "[U:1:1004585606]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "ohbabyilovemoney",
+				"time": 1779039022
+			},
+			"steamid": "[U:1:1007705714]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Shrigma",
+				"time": 1779387943
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga medic remix\""
+			],
+			"steamid": "[U:1:1015134348]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fowgzu",
+				"time": 1779638172
+			},
+			"proof": [
+				"https://youtu.be/jdHOYB3aeAw"
+			],
+			"steamid": "[U:1:1027145443]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "X{e}N{o}N",
+				"time": 1779738957
+			},
+			"proof": [
+				"https://youtu.be/8vuiJpSXKY4"
+			],
+			"steamid": "[U:1:1034488674]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Grant",
+				"time": 1779631173
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"\u0e37nigger jumpscare\""
+			],
+			"steamid": "[U:1:1049290767]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "SYPHEN",
+				"time": 1779644172
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga listening to cocomelon hardest hits 2026\"",
+				"[auto] automatically marked: Racist | reason: \"can a nigga request a song?\""
+			],
+			"steamid": "[U:1:1049448448]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "FOR THE EMPEROR",
+				"time": 1778952603
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger'\""
+			],
+			"steamid": "[U:1:1052587754]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "zzz",
+				"time": 1779988389
+			},
+			"steamid": "[U:1:1067892869]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ynter704",
+				"time": 1779801163
+			},
+			"proof": [
+				"https://youtu.be/jhKw_J8mtDE"
+			],
+			"steamid": "[U:1:1080914541]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "susm",
+				"time": 1779384955
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga said nsfw\""
+			],
+			"steamid": "[U:1:1081798019]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "T95/FV420",
+				"time": 1779803629
+			},
+			"proof": [
+				"https://youtu.be/t7P9g7Ul4X8"
+			],
+			"steamid": "[U:1:1102265678]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MGE LORD",
+				"time": 1779886521
+			},
+			"proof": [
+				"https://youtu.be/AJbaobDDXQA"
+			],
+			"steamid": "[U:1:1104776543]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "KamiH2B",
+				"time": 1779112333
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"unfunny ass nigga\""
+			],
+			"steamid": "[U:1:1110875332]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "T95/FV420",
+				"time": 1779803960
+			},
+			"proof": [
+				"https://youtu.be/t7P9g7Ul4X8"
+			],
+			"steamid": "[U:1:1118479232]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fantasy",
+				"time": 1779034277
+			},
+			"proof": [
+				"Silent Aim & ESP."
+			],
+			"steamid": "[U:1:1133925084]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "David's Sling",
+				"time": 1779888610
+			},
+			"proof": [
+				"https://youtu.be/zuKHFjZ0ThU"
+			],
+			"steamid": "[U:1:1139711157]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "76561199111784086",
+				"time": 1778606733
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"gay nigger\"",
+				"[auto] automatically marked: Racist | reason: \"does any of the blue team nigger want to duel me in sniper class ?\"",
+				"[auto] automatically marked: Racist | reason: \"what happen nigger\"",
+				"[auto] automatically marked: Racist | reason: \"anyother nigger want to duel me ?\""
+			],
+			"steamid": "[U:1:1151518358]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Celty",
+				"time": 1779989195
+			},
+			"steamid": "[U:1:1182935927]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "T95/FV420",
+				"time": 1779803690
+			},
+			"proof": [
+				"https://youtu.be/t7P9g7Ul4X8"
+			],
+			"steamid": "[U:1:1199049224]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "vocal",
+				"time": 1779640740
+			},
+			"proof": [
+				"https://youtu.be/g60vQwjT6DE"
+			],
+			"steamid": "[U:1:1200980376]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Barack Obama",
+				"time": 1779639136
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"this nigga got infinite health lol\"",
+				"[auto] automatically marked: Racist | reason: \"im telling you, this nigga got infinite hp\""
+			],
+			"steamid": "[U:1:1213492672]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ladis Washerum",
+				"time": 1779988243
+			},
+			"steamid": "[U:1:1241197639]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":)",
+				"time": 1779799311
+			},
+			"proof": [
+				"https://youtu.be/mZvQMdNFAhM"
+			],
+			"steamid": "[U:1:1255141138]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DuXIe",
+				"time": 1778177545
+			},
+			"steamid": "[U:1:1255592803]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "kebab man",
+				"time": 1779112775
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"u are a lucky nigga\""
+			],
+			"steamid": "[U:1:1270168258]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u26055311\u2605",
+				"time": 1779989065
+			},
+			"steamid": "[U:1:1277638619]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dillon",
+				"time": 1779886780
+			},
+			"steamid": "[U:1:1326521079]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "GardEVOIR",
+				"time": 1777988388
+			},
+			"steamid": "[U:1:1406992057]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "_Jural_",
+				"time": 1778590606
+			},
+			"steamid": "[U:1:1415670896]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SillyDingus",
+				"time": 1778863204
+			},
+			"steamid": "[U:1:1436625746]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Let's destroy TF2 #KillTF2",
+				"time": 1779025736
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"i 'ate niggers\""
+			],
+			"steamid": "[U:1:1441259542]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "boipho",
+				"time": 1778686631
+			},
+			"steamid": "[U:1:1443258911]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fatmagic",
+				"time": 1779990235
+			},
+			"steamid": "[U:1:1486871795]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "YT|RehanEsp\u00f8rt\u2692",
+				"time": 1779990677
+			},
+			"steamid": "[U:1:1567297035]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Shell #BringBackQuickplay",
+				"time": 1778948772
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"grown ass nigga saying good morning instead of engaging in gay rp\""
+			],
+			"steamid": "[U:1:1568813637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "YT:BLUEDRAGON",
+				"time": 1779727150
+			},
+			"proof": [
+				"Autoreflect on Pyro & critbucket."
+			],
+			"steamid": "[U:1:1569570352]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Justin",
+				"time": 1780061135
+			},
+			"steamid": "[U:1:1586012967]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PHK",
+				"time": 1779825723
+			},
+			"proof": [
+				"Silent Aim & ESP."
+			],
+			"steamid": "[U:1:1588984795]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Rere_meddleton",
+				"time": 1779213445
+			},
+			"proof": [
+				"Silent Aim on Pyro & ESP."
+			],
+			"steamid": "[U:1:1600849126]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Void Matrix",
+				"time": 1779032195
+			},
+			"proof": [
+				"Aimbot"
+			],
+			"steamid": "[U:1:1607955427]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ".",
+				"time": 1779989485
+			},
+			"steamid": "[U:1:1608605940]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ikikm",
+				"time": 1777743393
+			},
+			"steamid": "[U:1:1621356828]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "F\u0e1acker",
+				"time": 1779989319
+			},
+			"steamid": "[U:1:1631072076]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jane",
+				"time": 1778329247
+			},
+			"steamid": "[U:1:1666777436]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jugg",
+				"time": 1778861692
+			},
+			"steamid": "[U:1:1674963166]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "*",
+				"time": 1777566097
+			},
+			"steamid": "[U:1:1712812186]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lashili",
+				"time": 1779990064
+			},
+			"steamid": "[U:1:1744868426]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Peachfuzz",
+				"time": 1779991955
+			},
+			"steamid": "[U:1:1815439533]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Suske",
+				"time": 1777654642
+			},
+			"steamid": "[U:1:1841154668]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":)",
+				"time": 1779989903
+			},
+			"steamid": "[U:1:1846577382]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Llama",
+				"time": 1779991031
+			},
+			"steamid": "[U:1:1901032305]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "eurotrash",
+				"time": 1779990395
+			},
+			"steamid": "[U:1:1914757110]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "there's moonlight on the river",
+				"time": 1779379862
+			},
+			"steamid": "[U:1:1917095902]"
+		}
+	]
+}
