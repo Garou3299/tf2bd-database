@@ -73,6 +73,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Nor",
+				"time": 1780407079
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:134409615]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -446,6 +459,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Boom TH",
+				"time": 1780415437
+			},
+			"proof": [
+				"Silent Aim"
+			],
+			"steamid": "[U:1:750899816]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -505,6 +531,16 @@
 				"[auto] automatically marked: Racist | reason: \"now i remember why i stopped playing this nigger game\""
 			],
 			"steamid": "[U:1:885532385]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "\u043d\u0456\u043c\u0438\u0439",
+				"time": 1780421551
+			},
+			"steamid": "[U:1:892335491]"
 		},
 		{
 			"attributes": [
@@ -660,6 +696,19 @@
 				"time": 1779988389
 			},
 			"steamid": "[U:1:1067892869]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Arzonic",
+				"time": 1780415278
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga what\""
+			],
+			"steamid": "[U:1:1070775497]"
 		},
 		{
 			"attributes": [
