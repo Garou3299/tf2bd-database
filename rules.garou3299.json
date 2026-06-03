@@ -6,7 +6,7 @@
 		],
 		"description": "Custom racist word filter rules for TF2 Bot Detector.",
 		"title": "Custom racist word filter",
-		"update_url": "https://raw.githubusercontent.com/Garou3299/tf2bd-database/master/rules.garou3299.json"
+		"update_url": "https://raw.githubusercontent.com/Garou3299/tf2bd-database/refs/heads/master/rules.garou3299.json"
 	},
 	"rules": [
 		{
