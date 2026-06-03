@@ -5,8 +5,8 @@
 			"Garou3299 and those who contributed to https://github.com/Garou3299/tf2bd-database/discussions/1"
 		],
 		"description": "Database of Cheaters and Suspicious Players in Team Fortress 2.",
-		"title": "tf2bd-database",
-		"update_url": "https://raw.githubusercontent.com/Garou3299/tf2bd-database/master/playerlist.garou3299.json"
+		"title": "TF2BD Database",
+		"update_url": "https://raw.githubusercontent.com/Garou3299/tf2bd-database/refs/heads/master/playerlist.garou3299.json"
 	},
 	"players": [
 		{
@@ -334,6 +334,16 @@
 				"[auto] automatically marked: Racist | reason: \"NIGGER\""
 			],
 			"steamid": "[U:1:374794996]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Chanel No. 5",
+				"time": 1780503572
+			},
+			"steamid": "[U:1:384467527]"
 		},
 		{
 			"attributes": [
@@ -1159,6 +1169,16 @@
 				"time": 1778329247
 			},
 			"steamid": "[U:1:1666777436]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SEA MONKEYS",
+				"time": 1780500852
+			},
+			"steamid": "[U:1:1671239632]"
 		},
 		{
 			"attributes": [
