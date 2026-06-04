@@ -234,6 +234,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "mew",
+				"time": 1780586796
+			},
+			"steamid": "[U:1:256338001]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Frenchmann",
 				"time": 1779889600
 			},
@@ -380,6 +390,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "SPY DID NOT",
+				"time": 1780594466
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:433529657]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -489,6 +512,19 @@
 				"time": 1779902663
 			},
 			"steamid": "[U:1:753976513]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "goog.",
+				"time": 1780591409
+			},
+			"proof": [
+				"Aimbot & ESP."
+			],
+			"steamid": "[U:1:771060110]"
 		},
 		{
 			"attributes": [
@@ -852,6 +888,16 @@
 				"[auto] automatically marked: Racist | reason: \"anyother nigger want to duel me ?\""
 			],
 			"steamid": "[U:1:1151518358]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "brickz",
+				"time": 1780587701
+			},
+			"steamid": "[U:1:1179876841]"
 		},
 		{
 			"attributes": [
@@ -1239,6 +1285,16 @@
 				"time": 1779989903
 			},
 			"steamid": "[U:1:1846577382]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "1440X1080",
+				"time": 1780581886
+			},
+			"steamid": "[U:1:1887070740]"
 		},
 		{
 			"attributes": [
