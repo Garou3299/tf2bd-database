@@ -393,6 +393,16 @@
 				"suspicious"
 			],
 			"last_seen": {
+				"player_name": "mvalerio #TF2isEasy",
+				"time": 1780665480
+			},
+			"steamid": "[U:1:428916295]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
 				"player_name": "SPY DID NOT",
 				"time": 1780594466
 			},
@@ -423,6 +433,19 @@
 				"time": 1779819690
 			},
 			"steamid": "[U:1:447731402]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "i have a superiority complex",
+				"time": 1780666082
+			},
+			"proof": [
+				"Aimbot & ESP."
+			],
+			"steamid": "[U:1:736033013]"
 		},
 		{
 			"attributes": [
@@ -735,6 +758,20 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "PenjaminNgayahu",
+				"time": 1780665127
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"u niggas used to kill 2 people \"",
+				"[auto] automatically marked: Racist | reason: \"I am a medical ass nigga\""
+			],
+			"steamid": "[U:1:1053752290]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -891,7 +928,7 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
 			],
 			"last_seen": {
 				"player_name": "brickz",
