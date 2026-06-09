@@ -5,7 +5,7 @@
 			"Garou3299 and those who contributed to https://github.com/Garou3299/tf2bd-database/discussions/1"
 		],
 		"description": "Database of Cheaters and Suspicious Players in Team Fortress 2.",
-		"title": "TF2BD Database",
+		"title": "Garou3299 TF2BD Database",
 		"update_url": "https://raw.githubusercontent.com/Garou3299/tf2bd-database/refs/heads/master/playerlist.garou3299.json"
 	},
 	"players": [
@@ -337,6 +337,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "goon emperor",
+				"time": 1780941000
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger jumpscare\""
+			],
+			"steamid": "[U:1:365808327]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -601,6 +614,16 @@
 				"[auto] automatically marked: Racist | reason: \"nigger^\""
 			],
 			"steamid": "[U:1:861076577]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Faithfulwaffle06",
+				"time": 1780940839
+			},
+			"steamid": "[U:1:877929486]"
 		},
 		{
 			"attributes": [
