@@ -184,6 +184,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "nev",
+				"time": 1781024753
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"if that nigga pakistani\""
+			],
+			"steamid": "[U:1:203208354]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "SPENCER P00TIS",
 				"time": 1779023830
 			},
@@ -989,13 +1002,14 @@
 			],
 			"last_seen": {
 				"player_name": "76561199111784086",
-				"time": 1778606733
+				"time": 1781028122
 			},
 			"proof": [
 				"[auto] automatically marked: Racist | reason: \"gay nigger\"",
 				"[auto] automatically marked: Racist | reason: \"does any of the blue team nigger want to duel me in sniper class ?\"",
 				"[auto] automatically marked: Racist | reason: \"what happen nigger\"",
-				"[auto] automatically marked: Racist | reason: \"anyother nigger want to duel me ?\""
+				"[auto] automatically marked: Racist | reason: \"anyother nigger want to duel me ?\"",
+				"[auto] automatically marked: Racist | reason: \"nigger\""
 			],
 			"steamid": "[U:1:1151518358]"
 		},
@@ -1213,6 +1227,19 @@
 				"time": 1779990235
 			},
 			"steamid": "[U:1:1486871795]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Tveanskyq",
+				"time": 1781028770
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger\""
+			],
+			"steamid": "[U:1:1512711561]"
 		},
 		{
 			"attributes": [
@@ -1444,6 +1471,16 @@
 				"time": 1780581886
 			},
 			"steamid": "[U:1:1887070740]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Br0s",
+				"time": 1781024714
+			},
+			"steamid": "[U:1:1897960784]"
 		},
 		{
 			"attributes": [
