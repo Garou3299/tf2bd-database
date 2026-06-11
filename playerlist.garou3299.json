@@ -184,6 +184,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Homophobic gay sex",
+				"time": 1781109120
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"Nigga is you cheating?\""
+			],
+			"steamid": "[U:1:186218510]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "nev",
 				"time": 1781024753
 			},
@@ -600,6 +613,19 @@
 				"Aimbot & ESP."
 			],
 			"steamid": "[U:1:771060110]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mango#Bestrust",
+				"time": 1781109111
+			},
+			"proof": [
+				"Bhop, ESP & Silent Aim."
+			],
+			"steamid": "[U:1:771943887]"
 		},
 		{
 			"attributes": [
