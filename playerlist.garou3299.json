@@ -185,10 +185,11 @@
 			],
 			"last_seen": {
 				"player_name": "Homophobic gay sex",
-				"time": 1781109120
+				"time": 1781453135
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"Nigga is you cheating?\""
+				"[auto] automatically marked: Racist | reason: \"Nigga is you cheating?\"",
+				"[auto] automatically marked: Racist | reason: \"Niggas\""
 			],
 			"steamid": "[U:1:186218510]"
 		},
@@ -429,6 +430,19 @@
 				"[auto] automatically marked: Racist | reason: \"nigga said we\""
 			],
 			"steamid": "[U:1:411601479]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Permper",
+				"time": 1781455049
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:418742667]"
 		},
 		{
 			"attributes": [
@@ -837,11 +851,14 @@
 			],
 			"last_seen": {
 				"player_name": "SYPHEN",
-				"time": 1779644172
+				"time": 1781456173
 			},
 			"proof": [
 				"[auto] automatically marked: Racist | reason: \"nigga listening to cocomelon hardest hits 2026\"",
-				"[auto] automatically marked: Racist | reason: \"can a nigga request a song?\""
+				"[auto] automatically marked: Racist | reason: \"can a nigga request a song?\"",
+				"[auto] automatically marked: Racist | reason: \"fuck nigga spy lemme rockety jump\"",
+				"[auto] automatically marked: Racist | reason: \"fuck nigga\"",
+				"[auto] automatically marked: Racist | reason: \"this fuck nigga never seen a motger\""
 			],
 			"steamid": "[U:1:1049448448]"
 		},
@@ -1351,6 +1368,16 @@
 				"Silent Aim & ESP."
 			],
 			"steamid": "[U:1:1588984795]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Mina_\u30b8\u30e7(\u3082\u3063\u3068)Mika",
+				"time": 1781454880
+			},
+			"steamid": "[U:1:1592544504]"
 		},
 		{
 			"attributes": [
