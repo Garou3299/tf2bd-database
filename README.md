@@ -1,4 +1,4 @@
-![social-preview](https://raw.githubusercontent.com/Garou3299/tf2bd-database/master/public/social-preview.png)
+![social-preview](https://raw.githubusercontent.com/Garou3299/tf2bd-database/refs/heads/master/public/social-preview.png)
 # TF2BD Database
 My Database of Cheaters and Suspicious Players in Team Fortress 2.
 
