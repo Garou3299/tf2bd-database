@@ -831,6 +831,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Aleckhandar",
+				"time": 1781715627
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"pocketing one nigger\""
+			],
+			"steamid": "[U:1:1018250573]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1111,6 +1124,21 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "CHARLIE KIRK ASSASSIN",
+				"time": 1781624248
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\"",
+				"[auto] automatically marked: Racist | reason: \"TECHNOLOGY NIGGA\"",
+				"[auto] automatically marked: Racist | reason: \"nigga man\""
+			],
+			"steamid": "[U:1:1184994081]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1230,6 +1258,16 @@
 				"time": 1779989065
 			},
 			"steamid": "[U:1:1277638619]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "raaaaaaaaaaaaaaaaaaaa",
+				"time": 1781627775
+			},
+			"steamid": "[U:1:1314792008]"
 		},
 		{
 			"attributes": [
