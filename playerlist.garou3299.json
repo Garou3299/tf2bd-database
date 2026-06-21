@@ -796,7 +796,7 @@
 				"time": 1781974079
 			},
 			"proof": [
-				"Aimbot"
+				"Bot Account"
 			],
 			"steamid": "[U:1:929185171]"
 		},
@@ -1312,6 +1312,19 @@
 				"time": 1779886780
 			},
 			"steamid": "[U:1:1326521079]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "2oocg0dhpd",
+				"time": 1782057700
+			},
+			"proof": [
+				"Bot Account"
+			],
+			"steamid": "[U:1:1346222100]"
 		},
 		{
 			"attributes": [
