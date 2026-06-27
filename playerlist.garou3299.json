@@ -100,10 +100,11 @@
 			],
 			"last_seen": {
 				"player_name": "Unquestioning Soyim Altruist",
-				"time": 1782066677
+				"time": 1782584818
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"nigger iq team\""
+				"[auto] automatically marked: Racist | reason: \"nigger iq team\"",
+				"[auto] automatically marked: Racist | reason: \"fucking niggers\""
 			],
 			"steamid": "[U:1:125029782]"
 		},
@@ -604,6 +605,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "ImBaCk",
+				"time": 1782584102
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga u have negative k/d tf u mean ez\""
+			],
+			"steamid": "[U:1:461784772]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "dauzlee",
 				"time": 1782147514
 			},
@@ -887,6 +901,19 @@
 				"Bot Account"
 			],
 			"steamid": "[U:1:929185171]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561198890270122",
+				"time": 1782582766
+			},
+			"proof": [
+				"Bot Account"
+			],
+			"steamid": "[U:1:930004394]"
 		},
 		{
 			"attributes": [
@@ -1617,10 +1644,11 @@
 			],
 			"last_seen": {
 				"player_name": "brn",
-				"time": 1782150765
+				"time": 1782576982
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"WE DRAW NIGGA\""
+				"[auto] automatically marked: Racist | reason: \"WE DRAW NIGGA\"",
+				"[auto] automatically marked: Racist | reason: \"whos nigga?\""
 			],
 			"steamid": "[U:1:1587696081]"
 		},
