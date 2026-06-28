@@ -34,6 +34,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SPAAAAAAAAACE!",
+				"time": 1782671234
+			},
+			"steamid": "[U:1:46003337]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -1328,6 +1338,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "medicholic",
+				"time": 1782655273
+			},
+			"steamid": "[U:1:1216645765]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1420,6 +1440,19 @@
 				"time": 1779989065
 			},
 			"steamid": "[U:1:1277638619]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Stupid Green",
+				"time": 1782655363
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger\""
+			],
+			"steamid": "[U:1:1291607129]"
 		},
 		{
 			"attributes": [
