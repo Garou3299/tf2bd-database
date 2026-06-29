@@ -109,6 +109,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "YAKUB",
+				"time": 1782749511
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"its ok my nigger\""
+			],
+			"steamid": "[U:1:100103699]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Unquestioning Soyim Altruist",
 				"time": 1782584818
 			},
@@ -542,6 +555,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Patorino",
+				"time": 1782755318
+			},
+			"proof": [
+				"Silent Aim, ESP & Anti-backstab"
+			],
+			"steamid": "[U:1:422798683]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -776,6 +802,19 @@
 				"Bhop, ESP & Silent Aim."
 			],
 			"steamid": "[U:1:771943887]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Siddy",
+				"time": 1782747442
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga out here butterknifing me to death\""
+			],
+			"steamid": "[U:1:822177965]"
 		},
 		{
 			"attributes": [
@@ -1906,6 +1945,19 @@
 				"time": 1779379862
 			},
 			"steamid": "[U:1:1917095902]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e48",
+				"time": 1782753644
+			},
+			"proof": [
+				"Crit bucket"
+			],
+			"steamid": "[U:1:1923859903]"
 		}
 	]
 }
