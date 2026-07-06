@@ -722,6 +722,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "not cheating its just a new acc",
+				"time": 1783355193
+			},
+			"proof": [
+				"Silent Aim, ESP & Crit bucket."
+			],
+			"steamid": "[U:1:737226394]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "lil ahh dih",
 				"time": 1778935232
 			},
@@ -953,6 +966,20 @@
 				"time": 1778172635
 			},
 			"steamid": "[U:1:893498094]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "ChatGPT",
+				"time": 1783353627
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"We gotta rape that nigga spy\"",
+				"[auto] automatically marked: Racist | reason: \"they got a nigga sentry \""
+			],
+			"steamid": "[U:1:895739120]"
 		},
 		{
 			"attributes": [
