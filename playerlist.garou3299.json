@@ -899,6 +899,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MR.TEKHUB",
+				"time": 1783522331
+			},
+			"proof": [
+				"https://youtu.be/hf1TIfdjnJo?t=650"
+			],
+			"steamid": "[U:1:846398794]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -1466,6 +1479,19 @@
 				"time": 1782655273
 			},
 			"steamid": "[U:1:1216645765]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Death Cat",
+				"time": 1783522333
+			},
+			"proof": [
+				"https://youtu.be/hf1TIfdjnJo?t=1680"
+			],
+			"steamid": "[U:1:1224631604]"
 		},
 		{
 			"attributes": [
