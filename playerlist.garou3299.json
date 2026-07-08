@@ -693,6 +693,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Engireal",
+				"time": 1783449370
+			},
+			"proof": [
+				"Silent Aim."
+			],
+			"steamid": "[U:1:734156955]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -1499,6 +1512,16 @@
 				"time": 1778177545
 			},
 			"steamid": "[U:1:1255592803]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "non",
+				"time": 1783446577
+			},
+			"steamid": "[U:1:1263485163]"
 		},
 		{
 			"attributes": [
