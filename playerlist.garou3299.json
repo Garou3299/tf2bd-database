@@ -513,6 +513,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "A TREE",
+				"time": 1783788768
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:369591502]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2026,6 +2039,19 @@
 				"[auto] automatically marked: Racist | reason: \"theres a rat nigger at spawn\""
 			],
 			"steamid": "[U:1:1745591034]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud83d\udc4d\ud83d\ude10\ud83d\udc4d\ud83d\ude10\ud83d\udc4d\ud83d\ude10\ud83d\udc4d",
+				"time": 1783791381
+			},
+			"proof": [
+				"Backtracking & ESP."
+			],
+			"steamid": "[U:1:1798132008]"
 		},
 		{
 			"attributes": [
