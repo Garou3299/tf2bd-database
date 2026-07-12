@@ -1936,6 +1936,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "\u062f\u0627\u062d\u0645",
+				"time": 1783877544
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"kill me nigger\""
+			],
+			"steamid": "[U:1:1604170395]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2006,6 +2019,19 @@
 				"time": 1778861692
 			},
 			"steamid": "[U:1:1674963166]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Surya@2007",
+				"time": 1783864281
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"dumbass nigga i did't tell you\""
+			],
+			"steamid": "[U:1:1692545728]"
 		},
 		{
 			"attributes": [
