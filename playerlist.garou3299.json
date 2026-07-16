@@ -335,6 +335,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "henrykhaung",
+				"time": 1784219065
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"blu nigger\""
+			],
+			"steamid": "[U:1:230553349]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Ghayal",
 				"time": 1780335308
 			},
@@ -1111,6 +1124,19 @@
 				"[auto] automatically marked: Racist | reason: \"nigga \""
 			],
 			"steamid": "[U:1:971129500]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hanasato Minori!",
+				"time": 1784219133
+			},
+			"proof": [
+				"Silent Aim, Spinbot & ESP."
+			],
+			"steamid": "[U:1:1000006802]"
 		},
 		{
 			"attributes": [
