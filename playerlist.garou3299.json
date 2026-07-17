@@ -199,6 +199,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Darling",
+				"time": 1784312342
+			},
+			"proof": [
+				"Using Silent Aim and playing together with his friend [U:1:397922060], who is also using Silent Aim."
+			],
+			"steamid": "[U:1:155187005]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "is",
 				"time": 1779988510
 			},
@@ -606,6 +619,19 @@
 				"time": 1779989730
 			},
 			"steamid": "[U:1:393378847]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Leukemia",
+				"time": 1784311957
+			},
+			"proof": [
+				"Using Silent Aim and playing together with his friend [U:1:155187005], who is also using Silent Aim."
+			],
+			"steamid": "[U:1:397922060]"
 		},
 		{
 			"attributes": [
