@@ -1583,6 +1583,20 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "s_1rt",
+				"time": 1784484649
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\"",
+				"[auto] automatically marked: Racist | reason: \"you better kys nigga air fryer 420\""
+			],
+			"steamid": "[U:1:1172499961]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
