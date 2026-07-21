@@ -1514,6 +1514,20 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "tomboy sweat guzzler",
+				"time": 1784636440
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"no niggas\"",
+				"[auto] automatically marked: Racist | reason: \"we are still ballin niggas\""
+			],
+			"steamid": "[U:1:1126086039]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1567,6 +1581,16 @@
 				"[auto] automatically marked: Racist | reason: \"gay niggers\""
 			],
 			"steamid": "[U:1:1151518358]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "biko",
+				"time": 1784639220
+			},
+			"steamid": "[U:1:1151805492]"
 		},
 		{
 			"attributes": [
@@ -2200,6 +2224,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xXxAttentionxXx",
+				"time": 1784640641
+			},
+			"steamid": "[U:1:1676664121]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -2220,6 +2254,19 @@
 				"time": 1777566097
 			},
 			"steamid": "[U:1:1712812186]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "sadmannalot",
+				"time": 1784636472
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:1737282197]"
 		},
 		{
 			"attributes": [
