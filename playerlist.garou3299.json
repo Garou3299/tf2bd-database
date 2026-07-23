@@ -1917,6 +1917,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gaming",
+				"time": 1784817765
+			},
+			"proof": [
+				"Silent Aim & ESP."
+			],
+			"steamid": "[U:1:1349193614]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
