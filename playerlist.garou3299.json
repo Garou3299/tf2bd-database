@@ -2335,6 +2335,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud835\udcd1\ud835\udcf2\ud835\udcfd\ud835\udcfd\ud835\udcee\ud835\udcfb\ud835\udcfc",
+				"time": 1785693874
+			},
+			"proof": [
+				"Critbucket"
+			],
+			"steamid": "[U:1:1700241737]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
