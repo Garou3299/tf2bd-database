@@ -1001,6 +1001,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "won't you be my bad boy?",
+				"time": 1785776889
+			},
+			"proof": [
+				"Silent Aim, Bhop & ESP."
+			],
+			"steamid": "[U:1:773450968]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -1008,6 +1021,16 @@
 				"time": 1784292156
 			},
 			"steamid": "[U:1:786331137]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "arigatou gozaimus",
+				"time": 1785781218
+			},
+			"steamid": "[U:1:787453831]"
 		},
 		{
 			"attributes": [
