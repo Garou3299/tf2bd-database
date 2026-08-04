@@ -975,6 +975,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "pat.Galam",
+				"time": 1785860791
+			},
+			"proof": [
+				"New account with around 30 hours in TF2 at the time of recording. The player was playing with a cheater [U:1:149926867], who was also on their friends list."
+			],
+			"steamid": "[U:1:766862545]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2473,6 +2486,16 @@
 				"time": 1777654642
 			},
 			"steamid": "[U:1:1841154668]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "\u2020",
+				"time": 1785860987
+			},
+			"steamid": "[U:1:1841733838]"
 		},
 		{
 			"attributes": [
