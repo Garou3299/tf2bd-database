@@ -245,6 +245,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "The Red Key",
+				"time": 1786382639
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"bye niggers\""
+			],
+			"steamid": "[U:1:155557697]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1748,11 +1761,12 @@
 			],
 			"last_seen": {
 				"player_name": "s_1rt",
-				"time": 1784484649
+				"time": 1786124941
 			},
 			"proof": [
 				"[auto] automatically marked: Racist | reason: \"nigga\"",
-				"[auto] automatically marked: Racist | reason: \"you better kys nigga air fryer 420\""
+				"[auto] automatically marked: Racist | reason: \"you better kys nigga air fryer 420\"",
+				"[auto] automatically marked: Racist | reason: \"nah nigga\""
 			],
 			"steamid": "[U:1:1172499961]"
 		},
@@ -1992,6 +2006,21 @@
 				"[auto] automatically marked: Racist | reason: \"nigger\""
 			],
 			"steamid": "[U:1:1291607129]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "magg",
+				"time": 1786384090
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"shut up nigga\"",
+				"[auto] automatically marked: Racist | reason: \"leave it then nigger\"",
+				"[auto] automatically marked: Racist | reason: \"you clearly cant have it, bitch nigger.\""
+			],
+			"steamid": "[U:1:1303037962]"
 		},
 		{
 			"attributes": [
