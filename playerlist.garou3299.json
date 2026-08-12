@@ -2143,6 +2143,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Regalescu",
+				"time": 1786472367
+			},
+			"steamid": "[U:1:1506126363]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -2482,6 +2492,19 @@
 				"[auto] automatically marked: Racist | reason: \"theres a rat nigger at spawn\""
 			],
 			"steamid": "[U:1:1745591034]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "yaseryaser3451",
+				"time": 1786470824
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:1776921296]"
 		},
 		{
 			"attributes": [
