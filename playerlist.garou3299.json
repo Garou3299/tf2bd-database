@@ -1786,6 +1786,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Your Local Kink Shamer",
+				"time": 1786559130
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:1182551664]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2100,6 +2113,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Crit",
+				"time": 1786636426
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"ey my nigga\""
+			],
+			"steamid": "[U:1:1427136057]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2202,6 +2228,29 @@
 				"[auto] automatically marked: Racist | reason: \"this nigga is crazy I swear\""
 			],
 			"steamid": "[U:1:1525673143]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "simonchineseboi",
+				"time": 1786642758
+			},
+			"steamid": "[U:1:1544686959]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Griezmann",
+				"time": 1786643054
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:1562428600]"
 		},
 		{
 			"attributes": [
@@ -2554,6 +2603,32 @@
 				"time": 1779991955
 			},
 			"steamid": "[U:1:1815439533]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Sr Stabs a lot",
+				"time": 1786641256
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga cheating as spy\""
+			],
+			"steamid": "[U:1:1826799845]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "A\u01a8hreveal\u2122",
+				"time": 1786646176
+			},
+			"proof": [
+				"Silent Aim."
+			],
+			"steamid": "[U:1:1839233799]"
 		},
 		{
 			"attributes": [
