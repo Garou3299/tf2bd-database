@@ -566,6 +566,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "\u3001",
+				"time": 1786728762
+			},
+			"steamid": "[U:1:303893457]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -717,7 +727,7 @@
 				"time": 1782755318
 			},
 			"proof": [
-				"Silent Aim, ESP & Anti-backstab"
+				"Silent Aim, ESP & Anti-backstab."
 			],
 			"steamid": "[U:1:422798683]"
 		},
@@ -972,7 +982,7 @@
 				"time": 1780415437
 			},
 			"proof": [
-				"Silent Aim"
+				"Silent Aim."
 			],
 			"steamid": "[U:1:750899816]"
 		},
