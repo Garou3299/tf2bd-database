@@ -618,6 +618,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Attack Titan",
+				"time": 1787162209
+			},
+			"proof": [
+				"Silent Aim"
+			],
+			"steamid": "[U:1:325636175]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Hoye",
 				"time": 1786816909
 			},
@@ -2372,6 +2385,19 @@
 				"time": 1780061135
 			},
 			"steamid": "[U:1:1586012967]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "JustJericho",
+				"time": 1787156073
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"fuck this game nigga why are we still outnumbered\""
+			],
+			"steamid": "[U:1:1586361841]"
 		},
 		{
 			"attributes": [
