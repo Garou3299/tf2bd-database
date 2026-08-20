@@ -622,7 +622,7 @@
 				"time": 1787162209
 			},
 			"proof": [
-				"Silent Aim"
+				"Silent Aim & ESP"
 			],
 			"steamid": "[U:1:325636175]"
 		},
@@ -2109,6 +2109,15 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"time": 1787246196
+			},
+			"steamid": "[U:1:1315783641]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2797,6 +2806,19 @@
 				"time": 1779379862
 			},
 			"steamid": "[U:1:1917095902]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ilovemygf",
+				"time": 1787246851
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:1920046142]"
 		},
 		{
 			"attributes": [
