@@ -704,10 +704,11 @@
 			],
 			"last_seen": {
 				"player_name": "CITY WOK",
-				"time": 1779643283
+				"time": 1787412717
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"NIGGER\""
+				"[auto] automatically marked: Racist | reason: \"NIGGER\"",
+				"[auto] automatically marked: Racist | reason: \"nigga\""
 			],
 			"steamid": "[U:1:374794996]"
 		},
@@ -1510,6 +1511,19 @@
 				"[auto] automatically marked: Racist | reason: \"this fuck nigga never seen a motger\""
 			],
 			"steamid": "[U:1:1049448448]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I'LL HUNT YOUR ASS",
+				"time": 1787411703
+			},
+			"proof": [
+				"Silent Aim, ESP & Bhop"
+			],
+			"steamid": "[U:1:1050036112]"
 		},
 		{
 			"attributes": [
