@@ -900,6 +900,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "(A.M)",
+				"time": 1787504176
+			},
+			"proof": [
+				"Silent Aim"
+			],
+			"steamid": "[U:1:726128157]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
 				"time": 1784819053
 			},
@@ -1235,6 +1248,19 @@
 				"[auto] automatically marked: Racist | reason: \"now i remember why i stopped playing this nigger game\""
 			],
 			"steamid": "[U:1:885532385]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "adaws1",
+				"time": 1787508676
+			},
+			"proof": [
+				"Very sus player. While spectating him, regardless of whether I was in third-person or first-person mode, he was always looking down while shooting or even just walking, like people do in CS2 HvH. This makes it very hard to determine whether he was using silent aim or ESP. He was also getting a lot of random crits. Need more evidence!"
+			],
+			"steamid": "[U:1:885680859]"
 		},
 		{
 			"attributes": [
@@ -1807,7 +1833,7 @@
 			],
 			"last_seen": {
 				"player_name": "76561199111784086",
-				"time": 1781889354
+				"time": 1787501649
 			},
 			"proof": [
 				"[auto] automatically marked: Racist | reason: \"gay nigger\"",
@@ -1888,7 +1914,7 @@
 		},
 		{
 			"attributes": [
-				"cheater"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "Celty",
