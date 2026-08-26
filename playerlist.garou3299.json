@@ -239,8 +239,12 @@
 			],
 			"last_seen": {
 				"player_name": "ManSyiz",
-				"time": 1779992044
+				"time": 1787663644
 			},
+			"proof": [
+				"Silent Aim & ESP",
+				"Silent Aim, fake lag & ESP"
+			],
 			"steamid": "[U:1:150884981]"
 		},
 		{
@@ -881,6 +885,19 @@
 				"[auto] automatically marked: Racist | reason: \"fucking nigger nobody guard the intel\""
 			],
 			"steamid": "[U:1:487915443]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Doomsday",
+				"time": 1787762120
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:693973949]"
 		},
 		{
 			"attributes": [
@@ -2333,6 +2350,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "BaeR",
+				"time": 1787762683
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga im gettig on your ass for doing nothing but bitching\""
+			],
+			"steamid": "[U:1:1521756651]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "brian",
 				"time": 1780675226
 			},
@@ -2363,6 +2393,19 @@
 				"time": 1786642758
 			},
 			"steamid": "[U:1:1544686959]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "InLINE",
+				"time": 1787763385
+			},
+			"proof": [
+				"Silent Aim, ESP, Bhop & Auto Sticky"
+			],
+			"steamid": "[U:1:1550284081]"
 		},
 		{
 			"attributes": [
