@@ -903,6 +903,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Jesus the fictional character",
+				"time": 1787939116
+			},
+			"proof": [
+				"Silent Aim, ESP & Crit bucket"
+			],
+			"steamid": "[U:1:703356924]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "mahikhanki420",
 				"time": 1783706816
 			},
@@ -959,7 +972,7 @@
 				"time": 1780763139
 			},
 			"proof": [
-				"Silent Aim, critbucket & ESP"
+				"Silent Aim, Crit bucket & ESP"
 			],
 			"steamid": "[U:1:734208785]"
 		},
@@ -1172,7 +1185,7 @@
 				"time": 1782147423
 			},
 			"proof": [
-				"Silent Aim, ESP & crit bucket"
+				"Silent Aim, ESP & Crit bucket"
 			],
 			"steamid": "[U:1:830539294]"
 		},
@@ -2464,7 +2477,7 @@
 				"time": 1779727150
 			},
 			"proof": [
-				"Autoreflect on Pyro & critbucket"
+				"Autoreflect on Pyro & Crit bucket"
 			],
 			"steamid": "[U:1:1569570352]"
 		},
@@ -2672,7 +2685,7 @@
 				"time": 1785693874
 			},
 			"proof": [
-				"Critbucket"
+				"Crit bucket"
 			],
 			"steamid": "[U:1:1700241737]"
 		},
