@@ -391,10 +391,11 @@
 			],
 			"last_seen": {
 				"player_name": "nev",
-				"time": 1781024753
+				"time": 1788010699
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"if that nigga pakistani\""
+				"[auto] automatically marked: Racist | reason: \"if that nigga pakistani\"",
+				"[auto] automatically marked: Racist | reason: \"this nigga taunted\""
 			],
 			"steamid": "[U:1:203208354]"
 		},
@@ -446,6 +447,19 @@
 				"[auto] automatically marked: Racist | reason: \"blu nigger\""
 			],
 			"steamid": "[U:1:230553349]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "evil beuge (bug/bugself)",
+				"time": 1788029229
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:231623374]"
 		},
 		{
 			"attributes": [
@@ -1971,6 +1985,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Red Static",
+				"time": 1788026157
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"it was nigger burner 2000\""
+			],
+			"steamid": "[U:1:1189245718]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Akira",
 				"time": 1783701877
 			},
@@ -2480,6 +2507,19 @@
 				"Autoreflect on Pyro & Crit bucket"
 			],
 			"steamid": "[U:1:1569570352]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "LER",
+				"time": 1788010705
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"this nigga did\""
+			],
+			"steamid": "[U:1:1582772205]"
 		},
 		{
 			"attributes": [
