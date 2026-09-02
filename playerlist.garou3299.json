@@ -1516,6 +1516,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "104.3 Low Quality FM",
+				"time": 1788353071
+			},
+			"steamid": "[U:1:1003586544]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -3172,6 +3182,19 @@
 				"Crit bucket"
 			],
 			"steamid": "[U:1:1923859903]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ESMWM69",
+				"time": 1788353475
+			},
+			"proof": [
+				"Silent Aim, ESP & Anti-backstab"
+			],
+			"steamid": "[U:1:1925785579]"
 		}
 	]
 }
