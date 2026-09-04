@@ -1402,6 +1402,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Sergeant Major Dunbar",
+				"time": 1788458512
+			},
+			"steamid": "[U:1:903171806]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
