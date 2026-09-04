@@ -949,6 +949,21 @@
 		},
 		{
 			"attributes": [
+				"cheater",
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "MENA\u2102E",
+				"time": 1788538951
+			},
+			"proof": [
+				"Silent Aim, ESP & Fake lag",
+				"[auto] automatically marked: Racist | reason: \"wipe niggers from existence\""
+			],
+			"steamid": "[U:1:699620582]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1224,6 +1239,20 @@
 				"time": 1785781218
 			},
 			"steamid": "[U:1:787453831]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "MENACE",
+				"time": 1788538938
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"kill all niggers\"",
+				"[auto] automatically marked: Racist | reason: \"rape all niggers\""
+			],
+			"steamid": "[U:1:801921721]"
 		},
 		{
 			"attributes": [
