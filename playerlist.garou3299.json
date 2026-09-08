@@ -680,6 +680,20 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "sir loondri",
+				"time": 1788802556
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"u fkn nigger\"",
+				"[auto] automatically marked: Racist | reason: \"NIGGA DIE ALREADY\""
+			],
+			"steamid": "[U:1:338917331]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1127,6 +1141,19 @@
 				"time": 1778773127
 			},
 			"steamid": "[U:1:741634656]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown",
+				"time": 1788805368
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:742991814]"
 		},
 		{
 			"attributes": [
