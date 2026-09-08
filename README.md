@@ -9,9 +9,9 @@ I’m currently using [this](https://github.com/surepy/tf2_bot_detector), which 
 
 **A:**
 
-**Option A:** Download the ZIP file of this repository by clicking the `Code` button, then selecting `Download ZIP`. After extracting it, all you need is the `playerlist.garou3299.json` file.
+**Option A:** Download the ZIP file of this repository by clicking the `Code` button, then selecting `Download ZIP`. After extracting it, all you need is the `playerlist.garou3299.json` file then simply paste this file inside the `cfg` folder.
 
-**Option B:** Go [here](https://github.com/Garou3299/tf2bd-database/blob/master/playerlist.garou3299.json), click the `More file actions` button in the top-right corner, and download the `playerlist.garou3299.json` file directly.
+**Option B:** Go [here](https://github.com/Garou3299/tf2bd-database/blob/master/playerlist.garou3299.json), click the `More file actions` button in the top-right corner, and download the `playerlist.garou3299.json` file directly or just click the `Download raw file` button then simply paste this file inside the `cfg` folder.
 
 **Q:** *How I can contribute to your Database?*
 
