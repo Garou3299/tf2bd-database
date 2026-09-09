@@ -1017,6 +1017,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "soldier enthusiast",
+				"time": 1788970777
+			},
+			"proof": [
+				"ESP & Crit bucket"
+			],
+			"steamid": "[U:1:713096674]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2332,6 +2345,19 @@
 				"time": 1783446577
 			},
 			"steamid": "[U:1:1263485163]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "\u2661 pinkie \u2661",
+				"time": 1788977997
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:1265070212]"
 		},
 		{
 			"attributes": [
