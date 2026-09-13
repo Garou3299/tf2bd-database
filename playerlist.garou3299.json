@@ -1036,6 +1036,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Tryharder",
+				"time": 1789323764
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:680661627]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Doomsday",
 				"time": 1787762120
 			},
@@ -2714,6 +2727,19 @@
 				"time": 1786472367
 			},
 			"steamid": "[U:1:1506126363]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "25th hour",
+				"time": 1789324175
+			},
+			"proof": [
+				"Silent Aim, ESP & Bhop"
+			],
+			"steamid": "[U:1:1508748809]"
 		},
 		{
 			"attributes": [
