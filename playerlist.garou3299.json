@@ -188,6 +188,22 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "SCARYCRAZYMANN",
+				"time": 1789236614
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"cause everyone says nigger\"",
+				"[auto] automatically marked: Racist | reason: \"nigger\"",
+				"[auto] automatically marked: Racist | reason: \"HOW ARE THESE NIGGER HITS NOT HITTING\"",
+				"[auto] automatically marked: Racist | reason: \"its called lag nigger\""
+			],
+			"steamid": "[U:1:122283067]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Unquestioning Soyim Altruist",
 				"time": 1782584818
 			},
