@@ -433,12 +433,13 @@
 			],
 			"last_seen": {
 				"player_name": "Homophobic gay sex",
-				"time": 1784133149
+				"time": 1789574768
 			},
 			"proof": [
 				"[auto] automatically marked: Racist | reason: \"Nigga is you cheating?\"",
 				"[auto] automatically marked: Racist | reason: \"Niggas\"",
-				"[auto] automatically marked: Racist | reason: \"I will molesdt you lil nigga\""
+				"[auto] automatically marked: Racist | reason: \"I will molesdt you lil nigga\"",
+				"[auto] automatically marked: Racist | reason: \"Nigga is yo cheatin?\""
 			],
 			"steamid": "[U:1:186218510]"
 		},
@@ -454,6 +455,19 @@
 				"[auto] automatically marked: Racist | reason: \"nigger\""
 			],
 			"steamid": "[U:1:186799016]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Momus",
+				"time": 1789578004
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"cheating ass nigga\""
+			],
+			"steamid": "[U:1:198170037]"
 		},
 		{
 			"attributes": [
@@ -2739,6 +2753,21 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "T4sa",
+				"time": 1789566090
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"yes this nigger is crit hacking no doubt\"",
+				"[auto] automatically marked: Racist | reason: \"nigger immediately left after being called out\"",
+				"[auto] automatically marked: Racist | reason: \"fucking fatherless nigger gotta cheat cuz he got fucked in the ass when he's a kid\""
+			],
+			"steamid": "[U:1:1440968137]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Let's destroy TF2 #KillTF2",
 				"time": 1779025736
 			},
@@ -2890,6 +2919,19 @@
 				"Silent Aim, ESP, Bhop & Auto Sticky"
 			],
 			"steamid": "[U:1:1550284081]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "renegade",
+				"time": 1789566161
+			},
+			"proof": [
+				"ESP & Crit bucket"
+			],
+			"steamid": "[U:1:1551115645]"
 		},
 		{
 			"attributes": [
@@ -3190,6 +3232,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Diamond City Radio",
+				"time": 1789577607
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"what the nigger\""
+			],
+			"steamid": "[U:1:1727075336]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "sadmannalot",
 				"time": 1784636472
 			},
@@ -3450,8 +3505,11 @@
 			],
 			"last_seen": {
 				"player_name": "there's moonlight on the river",
-				"time": 1779379862
+				"time": 1789582934
 			},
+			"proof": [
+				"ESP"
+			],
 			"steamid": "[U:1:1917095902]"
 		},
 		{
