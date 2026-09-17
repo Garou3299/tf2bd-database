@@ -1089,6 +1089,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Bullseye",
+				"time": 1789660985
+			},
+			"proof": [
+				"Aimbot & ESP"
+			],
+			"steamid": "[U:1:678730005]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Tryharder",
 				"time": 1789323764
 			},
@@ -2311,6 +2324,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "PlesRademgi",
+				"time": 1789653070
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"there is no round 2 nigga\""
+			],
+			"steamid": "[U:1:1173006313]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -2785,6 +2811,16 @@
 				"time": 1778686631
 			},
 			"steamid": "[U:1:1443258911]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GunMoGomun",
+				"time": 1789660650
+			},
+			"steamid": "[U:1:1486431833]"
 		},
 		{
 			"attributes": [
