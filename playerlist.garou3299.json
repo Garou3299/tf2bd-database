@@ -534,6 +534,21 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "dwobbs",
+				"time": 1789927615
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"kick that nigga\"",
+				"[auto] automatically marked: Racist | reason: \"kick that nigga now\"",
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:230755635]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2192,6 +2207,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "John Cruelty",
+				"time": 1789929036
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:1103310683]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "MGE LORD",
 				"time": 1779886521
 			},
@@ -3010,11 +3038,12 @@
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "Griezmann",
-				"time": 1786643054
+				"player_name": "Blight_2",
+				"time": 1789922375
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"nigga\""
+				"[auto] automatically marked: Racist | reason: \"nigga\"",
+				"[auto] automatically marked: Racist | reason: \"your medick is dead nigga\""
 			],
 			"steamid": "[U:1:1562428600]"
 		},
