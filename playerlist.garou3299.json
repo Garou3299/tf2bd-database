@@ -1521,6 +1521,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dmitriy_dragunskiy69",
+				"time": 1790082192
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:789528422]"
+		},
+		{
+			"attributes": [
 				"cheater",
 				"racist"
 			],
@@ -3392,6 +3405,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xewqeenpbvsnzo",
+				"time": 1790082969
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:1758138075]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -3451,6 +3477,19 @@
 				"time": 1779991955
 			},
 			"steamid": "[U:1:1815439533]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "QC",
+				"time": 1790084705
+			},
+			"proof": [
+				"Autoreflect on Pyro & ESP"
+			],
+			"steamid": "[U:1:1825232958]"
 		},
 		{
 			"attributes": [
