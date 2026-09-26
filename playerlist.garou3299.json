@@ -514,6 +514,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Cheesus",
+				"time": 1790357704
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"oh no we lost nigga\""
+			],
+			"steamid": "[U:1:205158157]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Day 1 of bodyshotting",
 				"time": 1782230260
 			},
@@ -2494,10 +2507,11 @@
 			],
 			"last_seen": {
 				"player_name": "Lunar Firefly #RawInput",
-				"time": 1790187168
+				"time": 1790270479
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"dumb nigger\""
+				"[auto] automatically marked: Racist | reason: \"dumb nigger\"",
+				"[auto] automatically marked: Racist | reason: \"bob is a nigger fr\""
 			],
 			"steamid": "[U:1:1167370813]"
 		},
