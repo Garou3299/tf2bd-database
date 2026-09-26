@@ -1231,6 +1231,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "ash",
+				"time": 1790427770
+			},
+			"steamid": "[U:1:681777506]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2023,6 +2033,19 @@
 				"[auto] automatically marked: Racist | reason: \"pocketing one nigger\""
 			],
 			"steamid": "[U:1:1018250573]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Space",
+				"time": 1790436259
+			},
+			"proof": [
+				"Aimbot & ESP. And playing together with his friend [U:1:1549460168], who was also cheating"
+			],
+			"steamid": "[U:1:1018508567]"
 		},
 		{
 			"attributes": [
@@ -3165,6 +3188,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Citizen's of Utopia",
+				"time": 1790436512
+			},
+			"proof": [
+				"Silent Aim. And playing together with his friend [U:1:1018508567], who was also cheating"
+			],
+			"steamid": "[U:1:1549460168]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "InLINE",
 				"time": 1787763385
 			},
@@ -3633,6 +3669,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "um?",
+				"time": 1790436651
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"you guys are geniune niggers \""
+			],
+			"steamid": "[U:1:1835254352]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -3712,6 +3761,16 @@
 				"https://youtu.be/LjUpgYkxHfU?t=10"
 			],
 			"steamid": "[U:1:1867946483]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Glory To Israel (Anti-Goy)",
+				"time": 1790427735
+			},
+			"steamid": "[U:1:1877762737]"
 		},
 		{
 			"attributes": [
