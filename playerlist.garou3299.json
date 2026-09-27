@@ -1231,12 +1231,17 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater",
+				"racist"
 			],
 			"last_seen": {
 				"player_name": "ash",
-				"time": 1790427770
+				"time": 1790523692
 			},
+			"proof": [
+				"Silent Aim & ESP. And playing together with his friend [U:1:1265070212], who was also cheating",
+				"[auto] automatically marked: Racist | reason: \"nigga stop afk\""
+			],
 			"steamid": "[U:1:681777506]"
 		},
 		{
@@ -2530,11 +2535,12 @@
 			],
 			"last_seen": {
 				"player_name": "Lunar Firefly #RawInput",
-				"time": 1790270479
+				"time": 1790531860
 			},
 			"proof": [
 				"[auto] automatically marked: Racist | reason: \"dumb nigger\"",
-				"[auto] automatically marked: Racist | reason: \"bob is a nigger fr\""
+				"[auto] automatically marked: Racist | reason: \"bob is a nigger fr\"",
+				"[auto] automatically marked: Racist | reason: \"this nigga lmao\""
 			],
 			"steamid": "[U:1:1167370813]"
 		},
@@ -2791,14 +2797,14 @@
 		},
 		{
 			"attributes": [
-				"suspicious"
+				"cheater"
 			],
 			"last_seen": {
-				"player_name": "\u2661 pinkie \u2661",
+				"player_name": "Komorebi",
 				"time": 1788977997
 			},
 			"proof": [
-				"ESP"
+				"Silent Aim & ESP. And playing together with his friend [U:1:681777506], who was also cheating"
 			],
 			"steamid": "[U:1:1265070212]"
 		},
