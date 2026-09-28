@@ -1180,6 +1180,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Chad Thundercock",
+				"time": 1790616344
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga who tf are you\""
+			],
+			"steamid": "[U:1:479337214]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "dauzlee",
 				"time": 1782836479
 			},
@@ -2424,6 +2437,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "xPhid",
+				"time": 1790619440
+			},
+			"steamid": "[U:1:1120543202]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -3009,6 +3032,19 @@
 				"[auto] automatically marked: Racist | reason: \"ey my nigga\""
 			],
 			"steamid": "[U:1:1427136057]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Nate",
+				"time": 1790616530
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"ggs my niggers\""
+			],
+			"steamid": "[U:1:1433744417]"
 		},
 		{
 			"attributes": [
