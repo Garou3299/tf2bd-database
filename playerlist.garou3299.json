@@ -159,6 +159,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "LOL ;)",
+				"time": 1790794228
+			},
+			"steamid": "[U:1:114338353]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -433,10 +443,11 @@
 			],
 			"last_seen": {
 				"player_name": "Blasterion",
-				"time": 1779032203
+				"time": 1790786503
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"GG niGGers\""
+				"[auto] automatically marked: Racist | reason: \"GG niGGers\"",
+				"[auto] automatically marked: Racist | reason: \"niGGEr\""
 			],
 			"steamid": "[U:1:182082067]"
 		},
@@ -1221,11 +1232,24 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "nmequs",
+				"time": 1790775257
+			},
+			"proof": [
+				"ESP & Crit Bucket"
+			],
+			"steamid": "[U:1:673127243]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Conner",
 				"time": 1790181950
 			},
 			"proof": [
-				"Silent Aim, Crit bucket & ESP"
+				"Silent Aim, Crit Bucket & ESP"
 			],
 			"steamid": "[U:1:676358012]"
 		},
@@ -1320,7 +1344,7 @@
 				"time": 1787939116
 			},
 			"proof": [
-				"Silent Aim, ESP & Crit bucket"
+				"Silent Aim, ESP & Crit Bucket"
 			],
 			"steamid": "[U:1:703356924]"
 		},
@@ -1346,7 +1370,7 @@
 				"time": 1788970777
 			},
 			"proof": [
-				"ESP & Crit bucket"
+				"ESP & Crit Bucket"
 			],
 			"steamid": "[U:1:713096674]"
 		},
@@ -1424,7 +1448,7 @@
 				"time": 1780763139
 			},
 			"proof": [
-				"Silent Aim, Crit bucket & ESP"
+				"Silent Aim, Crit Bucket & ESP"
 			],
 			"steamid": "[U:1:734208785]"
 		},
@@ -1450,7 +1474,7 @@
 				"time": 1783355193
 			},
 			"proof": [
-				"Silent Aim, ESP & Crit bucket"
+				"Silent Aim, ESP & Crit Bucket"
 			],
 			"steamid": "[U:1:737226394]"
 		},
@@ -1689,7 +1713,7 @@
 				"time": 1782147423
 			},
 			"proof": [
-				"Silent Aim, ESP & Crit bucket"
+				"Silent Aim, ESP & Crit Bucket"
 			],
 			"steamid": "[U:1:830539294]"
 		},
@@ -2145,6 +2169,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "I Love Fat Bitches",
+				"time": 1790794724
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:1035167609]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -2248,7 +2285,7 @@
 				"time": 1790098298
 			},
 			"proof": [
-				"Silent Aim, ESP, Crit bucket & Autoreflect on Pyro. And playing together with his friend [U:1:396001350], who was also cheating"
+				"Silent Aim, ESP, Crit Bucket & Auto Reflect on Pyro. And playing together with his friend [U:1:396001350], who was also cheating"
 			],
 			"steamid": "[U:1:1063386456]"
 		},
@@ -2937,6 +2974,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "starscreaM",
+				"time": 1790789953
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"what a nigger\""
+			],
+			"steamid": "[U:1:1270812982]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -3325,7 +3375,7 @@
 				"time": 1789566161
 			},
 			"proof": [
-				"ESP & Crit bucket"
+				"ESP & Crit Bucket"
 			],
 			"steamid": "[U:1:1551115645]"
 		},
@@ -3388,7 +3438,7 @@
 				"time": 1779727150
 			},
 			"proof": [
-				"Autoreflect on Pyro & Crit bucket"
+				"Auto Reflect on Pyro & Crit Bucket"
 			],
 			"steamid": "[U:1:1569570352]"
 		},
@@ -3530,6 +3580,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "ViDda",
+				"time": 1790786473
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"take the intel and shove it up ur ass niggga\""
+			],
+			"steamid": "[U:1:1611584235]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -3610,7 +3673,7 @@
 				"time": 1785693874
 			},
 			"proof": [
-				"Crit bucket"
+				"Crit Bucket"
 			],
 			"steamid": "[U:1:1700241737]"
 		},
@@ -3757,7 +3820,7 @@
 				"time": 1790084705
 			},
 			"proof": [
-				"Autoreflect on Pyro & ESP"
+				"Auto Reflect on Pyro & ESP"
 			],
 			"steamid": "[U:1:1825232958]"
 		},
@@ -3796,7 +3859,7 @@
 				"time": 1786646176
 			},
 			"proof": [
-				"Silent Aim"
+				"Silent Aim & ESP"
 			],
 			"steamid": "[U:1:1839233799]"
 		},
@@ -3989,6 +4052,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Sans arbob storm",
+				"time": 1790792782
+			},
+			"proof": [
+				"Silent Aim, Auto Backstab & ESP while playing on ~500 ping"
+			],
+			"steamid": "[U:1:1919536555]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "ilovemygf",
 				"time": 1787246851
 			},
@@ -4019,7 +4095,7 @@
 				"time": 1782753644
 			},
 			"proof": [
-				"Crit bucket"
+				"Crit Bucket"
 			],
 			"steamid": "[U:1:1923859903]"
 		},
