@@ -2265,6 +2265,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Testicular Manslaughter",
+				"time": 1790956884
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"this nigga devil is cheating\""
+			],
+			"steamid": "[U:1:1053888193]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -3712,6 +3725,16 @@
 				"[auto] automatically marked: Racist | reason: \"nigga\""
 			],
 			"steamid": "[U:1:1737282197]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xd",
+				"time": 1790960538
+			},
+			"steamid": "[U:1:1738469052]"
 		},
 		{
 			"attributes": [
