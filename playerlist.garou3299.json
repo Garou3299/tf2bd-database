@@ -456,6 +456,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Ednore",
+				"time": 1791129980
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"you didn't mean the word nigger, did you?\""
+			],
+			"steamid": "[U:1:182226653]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Homophobic gay sex",
 				"time": 1789574768
 			},
@@ -2649,6 +2662,21 @@
 				"time": 1784639220
 			},
 			"steamid": "[U:1:1151805492]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "LaylaCandyCat",
+				"time": 1791130481
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"I say, nigger. Good sir!\"",
+				"[auto] automatically marked: Racist | reason: \"nigger\"",
+				"[auto] automatically marked: Racist | reason: \"Harketh! Huzzah! dirty sand niggers\""
+			],
+			"steamid": "[U:1:1153638220]"
 		},
 		{
 			"attributes": [
