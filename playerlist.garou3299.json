@@ -499,10 +499,11 @@
 			],
 			"last_seen": {
 				"player_name": "Momus",
-				"time": 1789578004
+				"time": 1791396590
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"cheating ass nigga\""
+				"[auto] automatically marked: Racist | reason: \"cheating ass nigga\"",
+				"[auto] automatically marked: Racist | reason: \"finish on these nuts nigga\""
 			],
 			"steamid": "[U:1:198170037]"
 		},
@@ -3262,6 +3263,19 @@
 				"time": 1778686631
 			},
 			"steamid": "[U:1:1443258911]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Weebb",
+				"time": 1791393942
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:1476642742]"
 		},
 		{
 			"attributes": [
