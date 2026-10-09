@@ -1177,6 +1177,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "joof",
+				"time": 1791554491
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga i just joined\""
+			],
+			"steamid": "[U:1:446095193]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1232,10 +1245,12 @@
 			],
 			"last_seen": {
 				"player_name": "Chad Thundercock",
-				"time": 1790616344
+				"time": 1791483567
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"nigga who tf are you\""
+				"[auto] automatically marked: Racist | reason: \"nigga who tf are you\"",
+				"[auto] automatically marked: Racist | reason: \"nigga!!\"",
+				"[auto] automatically marked: Racist | reason: \"nigga\""
 			],
 			"steamid": "[U:1:479337214]"
 		},
