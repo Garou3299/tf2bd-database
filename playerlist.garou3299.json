@@ -1968,6 +1968,20 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Spookarubound3",
+				"time": 1791996652
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"good luck niggas\"",
+				"[auto] automatically marked: Racist | reason: \"nigga thats furry porn\""
+			],
+			"steamid": "[U:1:893785611]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "ChatGPT",
 				"time": 1783353627
 			},
@@ -3867,6 +3881,19 @@
 				"Silent Aim & ESP"
 			],
 			"steamid": "[U:1:1758138075]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pengmanba248",
+				"time": 1791993519
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:1769258660]"
 		},
 		{
 			"attributes": [
