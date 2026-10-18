@@ -3,7 +3,7 @@
 My Database of Cheaters and Suspicious Players in Team Fortress 2.
 
 ---
-I’m currently using [this](https://github.com/surepy/tf2_bot_detector), which is a fork of [PazerOP's TF2BD](https://github.com/PazerOP/tf2_bot_detector). If you know of a better, actively maintained fork of PazerOP's TF2BD, let me know.
+I’m currently using [this](https://github.com/surepy/tf2_bot_detector), which is a fork of [PazerOP's TF2BD](https://github.com/PazerOP/tf2_bot_detector).
 
 **Q:** *How can I use your TF2 Cheaters Database?*
 
