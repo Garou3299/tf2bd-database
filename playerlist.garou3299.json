@@ -1313,6 +1313,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u9b3c\u5fc3",
+				"time": 1792340350
+			},
+			"steamid": "[U:1:658699844]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "snip",
 				"time": 1792336137
 			},
@@ -1320,6 +1330,45 @@
 				"Bot Account"
 			],
 			"steamid": "[U:1:658808307]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bictdb",
+				"time": 1792340268
+			},
+			"proof": [
+				"Bot Account"
+			],
+			"steamid": "[U:1:659331981]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nexal \u232c",
+				"time": 1792340230
+			},
+			"proof": [
+				"Bot Account"
+			],
+			"steamid": "[U:1:660327803]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nexal \u232c",
+				"time": 1792339129
+			},
+			"proof": [
+				"Bot Account"
+			],
+			"steamid": "[U:1:661026556]"
 		},
 		{
 			"attributes": [
