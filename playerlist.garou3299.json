@@ -123,6 +123,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Sex Enjoyer",
+				"time": 1792428092
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"NIGGER\""
+			],
+			"steamid": "[U:1:83768313]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Golden Freakmann",
 				"time": 1778332114
 			},
@@ -1316,6 +1329,9 @@
 				"player_name": "\u9b3c\u5fc3",
 				"time": 1792340350
 			},
+			"proof": [
+				"Bot Account"
+			],
 			"steamid": "[U:1:658699844]"
 		},
 		{
@@ -1330,6 +1346,19 @@
 				"Bot Account"
 			],
 			"steamid": "[U:1:658808307]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "the guy",
+				"time": 1792424522
+			},
+			"proof": [
+				"Backtracking & Auto Stab. And playing together with his friend [U:1:1926475907], who was also cheating"
+			],
+			"steamid": "[U:1:659291556]"
 		},
 		{
 			"attributes": [
@@ -1555,6 +1584,19 @@
 				"https://youtu.be/LjUpgYkxHfU?t=370"
 			],
 			"steamid": "[U:1:716635806]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "formall",
+				"time": 1792428907
+			},
+			"proof": [
+				"Backtracking & ESP"
+			],
+			"steamid": "[U:1:717167662]"
 		},
 		{
 			"attributes": [
@@ -1859,6 +1901,16 @@
 				"[auto] automatically marked: Racist | reason: \"rape all niggers\""
 			],
 			"steamid": "[U:1:801921721]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "OKO_SU1",
+				"time": 1792425369
+			},
+			"steamid": "[U:1:813709549]"
 		},
 		{
 			"attributes": [
@@ -3390,6 +3442,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "R00K",
+				"time": 1792427970
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigger\""
+			],
+			"steamid": "[U:1:1428646251]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Nate",
 				"time": 1790616530
 			},
@@ -4423,6 +4488,16 @@
 				"Silent Aim, ESP & Anti-backstab"
 			],
 			"steamid": "[U:1:1925785579]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "uwu..",
+				"time": 1792424520
+			},
+			"steamid": "[U:1:1926475907]"
 		}
 	]
 }
