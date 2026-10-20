@@ -1613,6 +1613,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Oy Vey, the Goyim know!",
+				"time": 1792502852
+			},
+			"proof": [
+				"ESP & Bhop, plus playing with a cheater [U:1:1418004912]"
+			],
+			"steamid": "[U:1:726079764]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1711,6 +1724,19 @@
 				"time": 1778773127
 			},
 			"steamid": "[U:1:741634656]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "prayceforza",
+				"time": 1792503940
+			},
+			"proof": [
+				"Bot Account ig, playing with [U:1:1324682056] & [U:1:1168782585] all of them cheating"
+			],
+			"steamid": "[U:1:741838693]"
 		},
 		{
 			"attributes": [
@@ -2957,6 +2983,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The folk",
+				"time": 1792503603
+			},
+			"proof": [
+				"Bot Account ig, playing with [U:1:1324682056] & [U:1:741838693] all of them cheating"
+			],
+			"steamid": "[U:1:1168782585]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -3363,6 +3402,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "MeifSniffer",
+				"time": 1792503525
+			},
+			"proof": [
+				"Silent Aim & ESP while playing together with 2 Bot Accounts [U:1:741838693] & [U:1:1168782585]"
+			],
+			"steamid": "[U:1:1324682056]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Dillon",
 				"time": 1779886780
 			},
@@ -3423,6 +3475,19 @@
 				"time": 1778590606
 			},
 			"steamid": "[U:1:1415670896]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Silver",
+				"time": 1792502721
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:1418004912]"
 		},
 		{
 			"attributes": [
@@ -4498,6 +4563,19 @@
 				"time": 1792424520
 			},
 			"steamid": "[U:1:1926475907]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "karamarki",
+				"time": 1792502206
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:1926582220]"
 		}
 	]
 }
