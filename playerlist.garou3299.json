@@ -1388,6 +1388,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "verge of death",
+				"time": 1792516404
+			},
+			"steamid": "[U:1:660915757]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -3425,6 +3435,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Uni",
+				"time": 1792509255
+			},
+			"proof": [
+				"Bot Account"
+			],
+			"steamid": "[U:1:1332686705]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "2oocg0dhpd",
 				"time": 1782057700
 			},
@@ -3814,6 +3837,19 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fatboy",
+				"time": 1792509146
+			},
+			"proof": [
+				"Bot Account"
+			],
+			"steamid": "[U:1:1563124866]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -4095,6 +4131,19 @@
 				"Crit Bucket"
 			],
 			"steamid": "[U:1:1700241737]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "...",
+				"time": 1792516104
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:1711877536]"
 		},
 		{
 			"attributes": [
