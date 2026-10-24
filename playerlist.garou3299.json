@@ -185,6 +185,16 @@
 				"suspicious"
 			],
 			"last_seen": {
+				"player_name": "oozn",
+				"time": 1792857168
+			},
+			"steamid": "[U:1:101711930]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
 				"player_name": "LOL ;)",
 				"time": 1790794228
 			},
@@ -1349,6 +1359,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "howard",
+				"time": 1792865289
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:656239531]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Magimagikarp427",
 				"time": 1792336169
 			},
@@ -1444,6 +1467,19 @@
 				"Bot Account"
 			],
 			"steamid": "[U:1:661026556]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e9e\u0eb2\u0eaa\u0eb2",
+				"time": 1792858329
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:661249147]"
 		},
 		{
 			"attributes": [
@@ -2214,6 +2250,19 @@
 				"time": 1792425369
 			},
 			"steamid": "[U:1:813709549]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u266b WSDGOTY \u30c4",
+				"time": 1792857250
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:814607631]"
 		},
 		{
 			"attributes": [
