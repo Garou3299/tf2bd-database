@@ -1248,6 +1248,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mujaji",
+				"time": 1792932557
+			},
+			"steamid": "[U:1:437164017]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -1519,6 +1529,19 @@
 				"Silent Aim, Crit Bucket & ESP"
 			],
 			"steamid": "[U:1:676358012]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "sniped",
+				"time": 1792944686
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:676588892]"
 		},
 		{
 			"attributes": [
@@ -2076,6 +2099,19 @@
 				"Aimbot & ESP"
 			],
 			"steamid": "[U:1:744603488]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gooner's a good job mate.",
+				"time": 1792934728
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:747310056]"
 		},
 		{
 			"attributes": [
@@ -3428,6 +3464,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "xyz",
+				"time": 1792946902
+			},
+			"steamid": "[U:1:1186814423]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -3957,6 +4003,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "perfectkillerX",
+				"time": 1792945299
+			},
+			"steamid": "[U:1:1473595211]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -4039,14 +4095,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "Behead",
-				"time": 1782145009
+				"player_name": "Saint Aim",
+				"time": 1792936344
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"nigga you kicked me without evidence either\""
+				"[auto] automatically marked: Racist | reason: \"nigga you kicked me without evidence either\"",
+				"ESP & also claims he got a game ban on Rust for cheating"
 			],
 			"steamid": "[U:1:1514859898]"
 		},
@@ -4114,6 +4172,19 @@
 				"[auto] automatically marked: Racist | reason: \"this nigga is crazy I swear\""
 			],
 			"steamid": "[U:1:1525673143]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "theosevis       \u2766",
+				"time": 1792945751
+			},
+			"proof": [
+				"ESP & Crit Bucket"
+			],
+			"steamid": "[U:1:1529533786]"
 		},
 		{
 			"attributes": [
