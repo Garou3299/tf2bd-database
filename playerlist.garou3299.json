@@ -4548,6 +4548,16 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "gighadw",
+				"time": 1793029081
+			},
+			"steamid": "[U:1:1701558149]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
