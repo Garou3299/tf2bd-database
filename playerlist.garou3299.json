@@ -1209,6 +1209,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "SomeWeirdMonke",
+				"time": 1793297553
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"niggas in sewers \""
+			],
+			"steamid": "[U:1:430332435]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1379,6 +1392,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Razez",
+				"time": 1793294658
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:657909100]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -1542,6 +1568,19 @@
 				"Silent Aim & ESP"
 			],
 			"steamid": "[U:1:676588892]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "alexusjhamir",
+				"time": 1793288747
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:677003423]"
 		},
 		{
 			"attributes": [
@@ -2217,6 +2256,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "softstatic",
+				"time": 1793293938
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"Shut up nigga\""
+			],
+			"steamid": "[U:1:768821863]"
+		},
+		{
+			"attributes": [
 				"cheater"
 			],
 			"last_seen": {
@@ -2253,6 +2305,19 @@
 				"Silent Aim, Bhop & ESP"
 			],
 			"steamid": "[U:1:773450968]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kurtfortress2",
+				"time": 1793282661
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:785152796]"
 		},
 		{
 			"attributes": [
@@ -3304,6 +3369,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Hodd Toward\u00ae",
+				"time": 1793290253
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga\""
+			],
+			"steamid": "[U:1:1140621236]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Verity",
 				"time": 1786035887
 			},
@@ -4323,6 +4401,19 @@
 				"[auto] automatically marked: Racist | reason: \"nigga\""
 			],
 			"steamid": "[U:1:1563821474]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Rat-o",
+				"time": 1793298796
+			},
+			"proof": [
+				"Silent Aim & ESP"
+			],
+			"steamid": "[U:1:1567276698]"
 		},
 		{
 			"attributes": [
