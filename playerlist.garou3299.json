@@ -580,6 +580,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Nullus.",
+				"time": 1794594207
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:197772526]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -3051,6 +3064,19 @@
 		},
 		{
 			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "pluh",
+				"time": 1794595074
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:1009401051]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -3100,6 +3126,19 @@
 				"[auto] automatically marked: Racist | reason: \"dogshit map with a nigger for a team to defend\""
 			],
 			"steamid": "[U:1:1022106649]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "WEAPONX",
+				"time": 1794592354
+			},
+			"proof": [
+				"Aimbot & ESP"
+			],
+			"steamid": "[U:1:1024474850]"
 		},
 		{
 			"attributes": [
@@ -3664,6 +3703,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Lander Eversor",
+				"time": 1794592568
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"wait that nigga i know\""
+			],
+			"steamid": "[U:1:1142640262]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Verity",
 				"time": 1786035887
 			},
@@ -3989,6 +4041,19 @@
 				"https://youtu.be/hf1TIfdjnJo?t=1680"
 			],
 			"steamid": "[U:1:1224631604]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "96969",
+				"time": 1794593520
+			},
+			"proof": [
+				"ESP"
+			],
+			"steamid": "[U:1:1231425931]"
 		},
 		{
 			"attributes": [
